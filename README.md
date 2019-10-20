@@ -1,7 +1,7 @@
 # LNMHacks 2019 Submissions
 
 ## Rules
-Kindly go through the [Rules](rules.md) of the LNMHackls Hackathon beforehand.
+Kindly go through the [Rules](rules.md) of the LNMHacks Hackathon beforehand.
 
 ## Submissions
 All the Project Submissions have to done by making an issue in this repository. The guidelines to followed for the same have been mentioned below:
@@ -11,7 +11,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
 
 ## Prizes Enrolled for
-One has to mark appropriate name in order to a submission valid for the Hackference Hackathon. Each submissions should have at least 2 labels according to the Project Field & Track.
+One has to mark appropriate name in order to a submission valid for the LNMHacks 4.0 Hackathon. Each submissions should have at least 2 labels according to the Project Field & Track.
 
 ## Project Field:
 Choose from
