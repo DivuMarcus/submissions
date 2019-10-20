@@ -3,8 +3,9 @@
 ## TL;DR How to submit:
 - Read the [Rules](rules.md).
 - Upload your code. This can be to a GitHub repository, a zip file on cloud storage, anywhere: as long as it is accessible by the judges.
-- Open a [new submisison issue](https://github.com/LNMHacks/submissions/issues/new/choose).
+- Start a [new submisison issue](https://github.com/LNMHacks/submissions/issues/new/choose).
 - Complete the template. 
+- Submit the issue. 
 - Success 🎉
 
 ## Rules
