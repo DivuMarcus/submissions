@@ -19,7 +19,7 @@ _Please complete all applicable._
 - **Team Members**: _Mention their Names & tag their GitHub handles_
 - **Where to find you?**: _Mention the room you're sitting in so we can find you_
 - **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
-- **Repository Link(s)**: _Provide us the link to your code_
+- **Repository Link(s)**: _Provide us the link to your code. All judges must be able to access it._
 - **Prize Categories Enrolled for**: 
    (Please tick any specific Category that applies)
   - [ ] Best use of Microsoft Azure
