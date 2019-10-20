@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are standard competition rules used at Hackference Hackathon.If you have a suggestion for these rules or a question about them, please email us at [hello@hackference.in](mailto:hello@hackference.in).
+These are standard competition rules used at LNMHacks 4.0 Hackathon.If you have a suggestion for these rules or a question about them, please email us at [info@lnmhacks.com](mailto:info@lnmhacks.com).
 
 
 ## The spirit of the competition
@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is a maximum team size of 3 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+1. There is a maximum team size of 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
 2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position at the event.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others.
@@ -51,4 +51,4 @@ So don't worry about coming up with the next big idea or building the next Googl
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the Hackference India Team!
+Happy Hacking from the LNMHacks Team!
